@@ -16,6 +16,7 @@
 
 ```
 ## Data Visualization
+```
 ### Data Visualization Important
 - Ancombe's Quartet
 - Four Data Sets with identical statistic.
@@ -24,21 +25,22 @@
   ### Visualization Tools
   - Business Intelligence Tools
   - Power BI, Tableau
+```
 
-  ## Machine Learning
-  
-  ### ML Algorithms
-  - Supervised
-  - Unsupervised ML Algorithms
-    
-  ### Hyper Parameter Tuning
-  - Model Optimization
-    
-  ### Scikit Learn
-  - Machine Learning Library Python
-  
-  ### Mlr Packge / Caret
-  - Machine Learning package in R
+## Machine Learning
+ ```
+### ML Algorithms
+- Supervised
+- Unsupervised ML Algorithms
 
+### Hyper Parameter Tuning
+- Model Optimization
+    
+### Scikit Learn
+- Machine Learning Library Python
+  
+### Mlr Packge / Caret
+- Machine Learning package in R
+```
 
     
