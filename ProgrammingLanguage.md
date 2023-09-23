@@ -1,8 +1,10 @@
 # Technologies to learn for a Data Scientist
-- text in red
-+ text in green
-! text in orange
-# text in gray
+
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
 
 ## _Programming Language_`#f03c15`
 
