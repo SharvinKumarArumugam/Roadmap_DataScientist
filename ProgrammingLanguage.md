@@ -20,9 +20,12 @@
 > R
 - dplyr
 - Janitor Data Cleaning
-- Lubridate Date - Time
-- ggplot2- Data Visualzation
+- Lubridate Date
+@@ Time @@
+- ggplot2
+@@ Data Visualzation @@
 - This is a red colored line
+
 ```
 ## _Data Visualization_
 ```diff
@@ -68,8 +71,10 @@
 - voice Assistance
 
 > Deep Learning Libraries
-- Python : Tensor Flow, PyTorch
-- R : MXNet, deepnet, H2O
+- Python 
+@@ Tensor Flow, PyTorch @@
+- R
+@@ MXNet, deepnet, H2O@@
 ```
 ## _Statistics_
  ```diff
