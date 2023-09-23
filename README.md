@@ -8,3 +8,9 @@ Data Scientist Road Map
  - Statistics ***Descriptive and Inferential***
  - Database ***NoSQL, SQL***
  - Big Data ***Hadoop, Spark***
+
+- [ ] Programming Language Python/R
+- [ ] Machine Learning Deep Learning, NLP
+- [ ] Statistics Descriptive and Inferential
+- [ ] Database NoSQL, SQL
+- [ ] Big Data Hadoop, Spark
