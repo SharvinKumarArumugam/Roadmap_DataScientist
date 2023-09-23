@@ -4,14 +4,17 @@
 ## _Programming Language_
 
 ```diff
-@@ This is a purple colored line @@
 
 > Python
-- Pandas - Data Analysis and Manipulation @@ Data Analysis and Manipulation @@
-- NumPy - Scientific Coputations  
+- Pandas 
+@@ Data Analysis and Manipulation @@ 
+@@ Data Analysis and Manipulation @@
+
+- NumPy 
+@@ Scientific Coputations @@
 - Matplotlib - Data Visualization
 - Seaborn - Data Visualization
-@@ Data Analysis and Manipulation @@
+
 > R
 - dplyr
 - Janitor Data Cleaning
