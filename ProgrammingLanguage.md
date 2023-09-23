@@ -1,5 +1,8 @@
 # _Technologies to learn for a Data Scientist_
 
+![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/dd55fb19-3c88-4807-b4f7-8bd611ccf7e8)
+
+
 
 ## _Programming Language_
 
@@ -77,6 +80,8 @@
 @@ MXNet, deepnet, H2O@@
 ```
 ## _Statistics_
+![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/30593896-d1e3-40e6-b619-ccfa2265c0a7)
+
  ```diff
 
 > Identify 
@@ -84,6 +89,9 @@
 > Design
 > Estimate
 ```
+
+![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/20155196-2860-4ef6-aa77-ea5f865c4b85)
+
 
 
     
