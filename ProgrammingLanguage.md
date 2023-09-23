@@ -1,8 +1,8 @@
 # Technologies to learn for a Data Scientist
 
-## Programming Language
+## _Programming Language_
 
- > ### Python
+ > ### Python 
 - Pandas - Data Analysis and Manipulation - Data Analysis and Manipulation
 - NumPy - Scientific Coputations  
 - Matplotlib - Data Visualization
@@ -14,56 +14,56 @@
 - Lubridate Date - Time
 - ggplot2- Data Visualzation
 
-## Data Visualization
+## _Data Visualization_
 
-### Data Visualization Important
+> ### Data Visualization Important
 - Ancombe's Quartet
 - Four Data Sets with identical statistic.
 - to get real picture visualize
 
-### Visualization Tools
+> ### Visualization Tools
 - Business Intelligence Tools
 - Power BI, Tableau
 
 
-## Machine Learning
+## _Machine Learning_
  
-### ML Algorithms
+> ### ML Algorithms
 - Supervised
 - Unsupervised ML Algorithms
 
-### Hyper Parameter Tuning
+> ### Hyper Parameter Tuning
 - Model Optimization
     
-### Scikit Learn
+> ### Scikit Learn
 - Machine Learning Library Python
   
-### Mlr Packge / Caret
+> ### Mlr Packge / Caret
 - Machine Learning package in R
 
-## Deep Learning
+## _Deep Learning_
 
-### Deep Learning
+> ### Deep Learning
 - Build Neural Network
 
-### Algorithms
+> ### Algorithms
 - CNN
 - RNN
 - LSTMs
 
-### NLP
+> ### NLP
 - Speech
 - voice Assistance
 
-### Deep Learning Libraries
+> ### Deep Learning Libraries
 - Python : Tensor Flow, PyTorch
 - R : MXNet, deepnet, H2O
 
-## Statistics
+## _Statistics_
 
-### - Identify 
-### - Predict
-### - Design
-### - Estimate
+> ### - Identify 
+> ### - Predict
+> ### - Design
+> ### - Estimate
 
     
