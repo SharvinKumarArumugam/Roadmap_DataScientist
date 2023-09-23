@@ -61,4 +61,11 @@
 - R : MXNet, deepnet, H2O
 
 ```
+## Statistics
+```
+### - Identify 
+### - Predict
+### - Design
+### - Estimate
+```
     
