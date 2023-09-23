@@ -1,29 +1,29 @@
 # Technologies to learn for a Data Scientist
 
-> ## Programming Language
+## Programming Language
 
- ### Python
+ > ### Python
 - Pandas - Data Analysis and Manipulation - Data Analysis and Manipulation
 - NumPy - Scientific Coputations  
 - Matplotlib - Data Visualization
 - Seaborn - Data Visualization
 
-### R
+> ### R
 - dplyr
 - Janitor Data Cleaning
 - Lubridate Date - Time
 - ggplot2- Data Visualzation
 
-> ## Data Visualization
+## Data Visualization
 
 ### Data Visualization Important
 - Ancombe's Quartet
 - Four Data Sets with identical statistic.
 - to get real picture visualize
 
-  ### Visualization Tools
-  - Business Intelligence Tools
-  - Power BI, Tableau
+### Visualization Tools
+- Business Intelligence Tools
+- Power BI, Tableau
 
 
 ## Machine Learning
