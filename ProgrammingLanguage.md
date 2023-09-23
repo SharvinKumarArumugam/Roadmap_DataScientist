@@ -1,4 +1,8 @@
 # Technologies to learn for a Data Scientist
+- text in red
++ text in green
+! text in orange
+# text in gray
 
 ## _Programming Language_`#f03c15`
 
