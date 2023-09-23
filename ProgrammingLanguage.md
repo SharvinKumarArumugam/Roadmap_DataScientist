@@ -30,7 +30,7 @@
 ```
 
 ## _Machine Learning_
- 
+ ```diff
 > ### ML Algorithms
 - Supervised
 - Unsupervised ML Algorithms
@@ -44,8 +44,9 @@
 > ### Mlr Packge / Caret
 - Machine Learning package in R
 
+```
 ## _Deep Learning_
-
+ ```diff
 > ### Deep Learning
 - Build Neural Network
 
@@ -61,12 +62,13 @@
 > ### Deep Learning Libraries
 - Python : Tensor Flow, PyTorch
 - R : MXNet, deepnet, H2O
-
+```
 ## _Statistics_
+ ```diff
 
 > ### - Identify 
 > ### - Predict
 > ### - Design
 > ### - Estimate
-
+```
     
