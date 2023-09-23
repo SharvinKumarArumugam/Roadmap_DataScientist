@@ -1,7 +1,7 @@
 ![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/3416e080-bf95-4faf-8c61-e37d2c8b9b14)
 
 | Rank | CONTENT |
-|-----:|--------------- |
+|-----:| :---------------: |
 |     1| Statistics and Probability               |
 |     2| Confusion matrix              |
 |     3| Probability              |
