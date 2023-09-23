@@ -1,4 +1,4 @@
-# Technologies to learn for a Data Scientist
+# _Technologies to learn for a Data Scientist_
 
 
 ## _Programming Language_
