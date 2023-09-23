@@ -1,13 +1,8 @@
 # Technologies to learn for a Data Scientist
 
-```diff
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
-```
-```diff
+
 ## _Programming Language_`#f03c15`
-```
+```diff
  > ### Python 
 - Pandas - Data Analysis and Manipulation - Data Analysis and Manipulation
 - NumPy - Scientific Coputations  
@@ -19,7 +14,8 @@
 - Janitor Data Cleaning
 - Lubridate Date - Time
 - ggplot2- Data Visualzation
-
+- This is a red colored line
+```
 ## _Data Visualization_
 
 > ### Data Visualization Important
