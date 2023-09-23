@@ -44,6 +44,9 @@
 |     40| Data Scientist Resume            |
 |     41| Data Science Interview Question & Answers             |
 
+> [!NOTE]
+> You can refer the _YouTube_ link for more detail.
+
 ![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/aeda458c-4623-4109-aeb1-a43894622142)
 
 
