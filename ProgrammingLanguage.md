@@ -1,6 +1,6 @@
 # Technologies to learn for a Data Scientist
 
-## _Programming Language_#4078c0
+## _Programming Language_ #4078c0
 
  > ### Python 
 - Pandas - Data Analysis and Manipulation - Data Analysis and Manipulation
