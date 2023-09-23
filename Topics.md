@@ -47,5 +47,14 @@
 ![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/aeda458c-4623-4109-aeb1-a43894622142)
 
 
+<details>
+<summary>My top languages</summary>
 
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
 
