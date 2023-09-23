@@ -1,7 +1,7 @@
 # Technologies to learn for a Data Scientist
 
 ## Programming Language
-```
+~~~
 > Python
 - Pandas - Data Analysis and Manipulation - Data Analysis and Manipulation
 - NumPy - Scientific Coputations  
@@ -14,7 +14,7 @@
 - Lubridate Date - Time
 - ggplot2- Data Visualzation
 
-```
+~~~
 ## Data Visualization
 ```
 ### Data Visualization Important
