@@ -1,3 +1,4 @@
+![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/3416e080-bf95-4faf-8c61-e37d2c8b9b14)
 
 | Rank | CONTENT |
 |-----:|--------------- |
@@ -42,6 +43,9 @@
 |     39| Multi-layer Percetron Use case            |
 |     40| Data Scientist Resume            |
 |     41| Data Science Interview Question & Answers             |
+
+![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/aeda458c-4623-4109-aeb1-a43894622142)
+
 
 
 
