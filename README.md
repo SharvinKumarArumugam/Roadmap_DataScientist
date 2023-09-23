@@ -1,7 +1,7 @@
-![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/f20697f9-ebdc-44f0-a43f-b473e2ac50c1)
+
 
 # Data Scientist Roadmap
-
+![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/f20697f9-ebdc-44f0-a43f-b473e2ac50c1)
 
 Data Scientist Road Map
 
