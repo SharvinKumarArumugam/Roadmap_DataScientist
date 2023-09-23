@@ -9,11 +9,13 @@
 - Pandas 
 @@ Data Analysis and Manipulation @@ 
 @@ Data Analysis and Manipulation @@
-
 - NumPy 
 @@ Scientific Coputations @@
-- Matplotlib - Data Visualization
-- Seaborn - Data Visualization
+- Matplotlib 
+@@ Data Visualization @@
+- Seaborn 
+@@ Data Visualization @@
+
 
 > R
 - dplyr
