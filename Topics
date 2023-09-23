@@ -5,6 +5,11 @@
 |     2| Confusion matrix              |
 |     3| Probability              |
 
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
 
 Statistics and Probability
 Confusion matrix
