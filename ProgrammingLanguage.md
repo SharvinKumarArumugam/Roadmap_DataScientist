@@ -80,7 +80,6 @@
 @@ MXNet, deepnet, H2O@@
 ```
 ## _Statistics_
-![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/30593896-d1e3-40e6-b619-ccfa2265c0a7)
 
  ```diff
 
