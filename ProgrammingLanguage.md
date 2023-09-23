@@ -10,7 +10,7 @@
 - Matplotlib - Data Visualization
 - Seaborn - Data Visualization
 
-R
+> R
 - dplyr
 - Janitor Data Cleaning
 - Lubridate Date - Time
@@ -19,12 +19,12 @@ R
 ```
 ## _Data Visualization_
 ```diff
-Data Visualization Important
+> Data Visualization Important
 - Ancombe's Quartet
 - Four Data Sets with identical statistic.
 - to get real picture visualize
 
-Visualization Tools
+> Visualization Tools
 - Business Intelligence Tools
 - Power BI, Tableau
 - This is a red colored line
@@ -32,44 +32,44 @@ Visualization Tools
 
 ## _Machine Learning_
  ```diff
-ML Algorithms
+> ML Algorithms
 - Supervised
 - Unsupervised ML Algorithms
 
-Hyper Parameter Tuning
+> Hyper Parameter Tuning
 - Model Optimization
     
-Scikit Learn
+> Scikit Learn
 - Machine Learning Library Python
 
-Mlr Packge / Caret
+> Mlr Packge / Caret
 - Machine Learning package in R
 
 ```
 ## _Deep Learning_
  ```diff
-Deep Learning
+> Deep Learning
 - Build Neural Network
 
-Algorithms
+> Algorithms
 - CNN
 - RNN
 - LSTMs
 
-NLP
+> NLP
 - Speech
 - voice Assistance
 
-Deep Learning Libraries
+> Deep Learning Libraries
 - Python : Tensor Flow, PyTorch
 - R : MXNet, deepnet, H2O
 ```
 ## _Statistics_
  ```diff
 
-Identify 
-Predict
-Design
-Estimate
+> Identify 
+> Predict
+> Design
+> Estimate
 ```
     
