@@ -11,7 +11,7 @@
 - NumPy - Scientific Coputations  
 - Matplotlib - Data Visualization
 - Seaborn - Data Visualization
-
+ @@ Data Analysis and Manipulation @@
 > R
 - dplyr
 - Janitor Data Cleaning
@@ -74,6 +74,6 @@
 > Design
 > Estimate
 ```
-@@ This is a purple colored line @@
+
 
     
