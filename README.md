@@ -17,3 +17,6 @@ Data Scientist Road Map
 
 ![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/348e103c-74d8-4bb9-b7ed-3764288793fa)
 
+![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/caf5b9dc-a628-4407-a1f1-079fdf5902b4)
+
+![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/7f9be216-b1d7-4473-a4e1-f2e5bd078857)
