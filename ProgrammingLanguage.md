@@ -1,7 +1,7 @@
 # Technologies to learn for a Data Scientist
 
 
-## _Programming Language_`#f03c15`
+## _Programming Language_
 ```diff
  > ### Python 
 - Pandas - Data Analysis and Manipulation - Data Analysis and Manipulation
@@ -17,7 +17,7 @@
 - This is a red colored line
 ```
 ## _Data Visualization_
-
+```diff
 > ### Data Visualization Important
 - Ancombe's Quartet
 - Four Data Sets with identical statistic.
@@ -26,7 +26,8 @@
 > ### Visualization Tools
 - Business Intelligence Tools
 - Power BI, Tableau
-
+- This is a red colored line
+```
 
 ## _Machine Learning_
  
