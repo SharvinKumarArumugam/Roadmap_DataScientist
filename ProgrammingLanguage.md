@@ -42,5 +42,23 @@
 ### Mlr Packge / Caret
 - Machine Learning package in R
 ```
+## Deep Learning
+```
+### Deep Learning
+- Build Neural Network
 
+### Algorithms
+- CNN
+- RNN
+- LSTMs
+
+### NLP
+- Speech
+- voice Assistance
+
+### Deep Learning Libraries
+- Python : Tensor Flow, PyTorch
+- R : MXNet, deepnet, H2O
+
+```
     
