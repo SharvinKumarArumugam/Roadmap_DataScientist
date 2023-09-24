@@ -1,6 +1,6 @@
 # _Technologies to learn for a Data Scientist_
 
-![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/dd55fb19-3c88-4807-b4f7-8bd611ccf7e8)
+   ![image](https://github.com/SharvinKumarArumugam/Roadmap_DataScientist/assets/93881528/dd55fb19-3c88-4807-b4f7-8bd611ccf7e8)
 
 
 
