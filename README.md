@@ -7,7 +7,7 @@ Data Scientist Road Map
 
 ## Technologies to learn for a Data Scientist
 
-- [ ] Programming Language ***Python/R***
+- [ ] Programming Language ***Python***
 - [ ] Machine Learning Deep ***Learning, NLP*** 
 - [ ] Statistics ***Descriptive and Inferential***
 - [ ] Database ***NoSQL, SQL*** 
